@@ -15,18 +15,6 @@ Specifically, they want to understand the factors affecting the demand for these
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 
-
-
-## Conclusions
-### Interepretation of results
-As per the above model, the comapany should work on expanding the business :
-- During fall season.
-- In sunny weather ( weathersit 1: Clear, Few clouds, Partly cloudy, Partly cloudy). 
-- In months Feb to June.
-- On working days
-
-The business has expanded in 2019, so is likely to expand in coming years too.
-
 ## Technologies Used
 - Python 3.12
 
