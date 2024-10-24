@@ -27,16 +27,6 @@ As per the above model, the comapany should work on expanding the business :
 
 The business has expanded in 2019, so is likely to expand in coming years too.
 
-### Conclusion
-Significant variables to predict the demand for shared bikes
-
-- Year
-- holiday
-- temp
-- Season
-- months
-- weathersit
-
 ## Technologies Used
 - Python 3.12
 
@@ -51,7 +41,15 @@ scikit-learn  | 1.5.2
 seaborn       | 0.13.2
 statsmodels   | 0.14.4
 
+### Conclusion
+Significant variables to predict the demand for shared bikes
 
+- Year
+- holiday
+- temp
+- Season
+- months
+- weathersit
 
 ## Contact
 Created by [@vsinhav] - feel free to contact me!
