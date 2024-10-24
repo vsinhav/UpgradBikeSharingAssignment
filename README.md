@@ -12,49 +12,46 @@ Specifically, they want to understand the factors affecting the demand for these
 
 
 ## Table of Contents
-* [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+### Interepretation of results
+As per the above model, the comapany should work on expanding the business :
+- During fall season.
+- In sunny weather ( weathersit 1: Clear, Few clouds, Partly cloudy, Partly cloudy). 
+- In months Feb to June.
+- On working days
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The business has expanded in 2019, so is likely to expand in coming years too.
 
+### Conclusion
+Significant variables to predict the demand for shared bikes
+
+- Year
+- holiday
+- temp
+- Season
+- months
+- weathersit
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python 3.12
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+> Libraries:
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+Package       | Version
+------------- | -------------
+numpy         | 2.1.2
+pandas        | 2.2.3
+matplotlib    | 3.9.2
+scikit-learn  | 1.5.2
+seaborn       | 0.13.2
+statsmodels   | 0.14.4
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@vsinhav] - feel free to contact me!
